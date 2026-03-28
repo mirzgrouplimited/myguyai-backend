@@ -4,4 +4,5 @@ motor
 httpx
 requests
 python-dotenv
+PyJWT
 # updated
