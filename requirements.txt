@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 motor
+httpx
 requests
 python-dotenv
